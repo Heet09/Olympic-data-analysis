@@ -35,17 +35,17 @@ The goal of this project is to extract, load, transform, and analyze Olympic dat
 
   7. Azure Synapse Analytics
      Designed a work space in synapse analytics to design a database table by connecting to datalake DB.
-
- 8. Load Data into the Dedicated SQL Pool:
-      Use the Data Factory pipeline or Databricks to load transformed data into the SQL pool.
-      Ensure that the data is organized in a structured format suitable for reporting.
-  9. Connect Power BI to Azure Synapse Analytics and create dashboards.
-
+     
   ![Total_male_athletes](https://github.com/user-attachments/assets/aed26e0f-6291-4f7c-bc80-c5717058d2fe)
 
-  
   ![Total Gold medals by Country ](https://github.com/user-attachments/assets/705cb528-e24f-4f4a-9f7b-26d024d8da93)
 
+ 9. Load Data into the Dedicated SQL Pool:
+      Use the Data Factory pipeline or Databricks to load transformed data into the SQL pool.
+      Ensure that the data is organized in a structured format suitable for reporting.
+  10. Connect Power BI to Azure Synapse Analytics and create dashboards.
+      
+![power bi insight](https://github.com/user-attachments/assets/7d6b8bd8-4393-4553-b7c0-4e794753a4f9)
 
 # Getting Started
 1. Clone this repository.
